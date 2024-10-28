@@ -9,9 +9,8 @@ The PGR conference has been a longstanding event within the School of Geography 
 The School of Geography PGR conference will include:
 
 -   15-min presentations from postgraduates
--   Keynotes speakers
--   Workshops
 -   Poster session & networking opportunity
+-   Career Sessions
 -   Lunch & social
 
 To present a research talk or a poster, more details are provided [here](Presentation.qmd).
