@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 01fdfc4e-e548-4076-975a-1e0ac1789e48
+      url: 'https://paddysmith.quarto.pub/sog-pgr-conference-2024'
+    - id: e8ff93a4-2b27-4955-8471-2a511de46a79
+      url: 'https://paddysmith.quarto.pub/sog-pgr-conference-2024'

@@ -11,7 +11,7 @@ website:
     search: false
     left:
       - text: "Home"
-        href: index.qmd
+        href: Home.qmd
       - text: "Participation"
         menu:
           - text: "Presentation " 
@@ -23,9 +23,13 @@ website:
       - text: "Programme"
         menu:
           - text: "Conference Programme" 
-            href: about.qmd
-          - text: "Abstracts"
+            href: Conference Programme.qmd
+          - text: "Keynote Speakers & Workshop"
+            href: keynote.qmd
+          - text: "Presenters"
             href: presenters.qmd
+          - text: "Social"
+            href: Social.qmd
       - text: "Organisation"
         href: Organisation.qmd
       - text: "Venue"
@@ -44,5 +48,4 @@ format:
     toc: true
 
 editor: visual
-
 
